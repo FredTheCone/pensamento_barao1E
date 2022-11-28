@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Produtos - Barbearia Alura</title>
+
+		<link rel="stylesheet" href="reset.css">
+		<link rel="stylesheet" href="produtos.css">
+	</head>
+	<body>
+		<header>
+			<div class="caixa">
+				<h1><img src="imagem fred.png"></h1>
+
+				<nav>
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="produtos.html">Produtos</a></li>
+						<li><a href="contato.html">Contato</a></li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+
+		<main>
+			<ul class="produtos">
+				<li>
+					<h2>Cabelo</h2>
+					<img src="imagem fred2.webp">
+					<p class="produto-descricao">Contabilidade de investimentos pessoais</p>
+					<p class="produto-preco">R$ 250,00</p>
+				</li>
+				<li>
+					<h2>Barba</h2>
+					<img src="imagem produto frederico.png">
+					<p class="produto-descricao">Administração de Ações para renda passiva pessoal ou empresarial</p>
+					<p class="produto-preco">R$ 450,00</p>
+				</li>
+				<li>
+					<h2>Cabelo + Barba</h2>
+					<img src="pngegg.png">
+					<p class="produto-descricao">Renovações de Ações</p>
+					<p class="produto-preco">R$ 150,00</p>
+				</li>
+			</ul>
+		</main>
+	</body>
